@@ -19,16 +19,16 @@
 
 ```env
 # токен UptimeRobot API v3
-UPTIMEROBOT_API_KEY=...
+UPTIMEROBOT_API_KEY=TOP_SECRET
 
 # схема для мониторов (https или http)
 DEFAULT_SCHEME=https
 
 # токен пути Asana (секрет в URL)
-ASANA_PATH_TOKEN=super-secret
+ASANA_PATH_TOKEN=TOP_SECRET
 
 # количество воркеров Uvicorn
-UVICORN_WORKERS=8
+UVICORN_WORKERS=4
 ```
 
 ---
