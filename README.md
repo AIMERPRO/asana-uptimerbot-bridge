@@ -35,8 +35,7 @@ UVICORN_WORKERS=4
 
 ## 🔌 API
 
-# API Swager 
-URL - `/docs`
+### API Swager URL - `/docs`
 
 ### POST `/asana-webhook/{token}`
 
